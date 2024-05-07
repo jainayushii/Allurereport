@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "My Second Test Suite",
+    "children" : [ {
+      "name" : "My FirstTest case",
+      "uid" : "d727f18e43dc8322",
+      "parentUid" : "3d3d8d69c26717a5535686cbb807c569",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676968432612,
+        "stop" : 1676968441653,
+        "duration" : 9041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d3d8d69c26717a5535686cbb807c569"
+  } ],
+  "name" : "packages"
+}
